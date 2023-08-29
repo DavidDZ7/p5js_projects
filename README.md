@@ -41,6 +41,17 @@ Use the `RIGHT` and `LEFT` keys.<br>
 [![Breakout](breakout.gif)](https://daviddz7.github.io/breakout/)
 
 ------------------
+ **Sliding Puzzle** <br>
+------------------
+
+I implemented the Sliding Puzzle game, with the classical 4x4 grid where you have to slide your tiles around until they are in the correct order.<br>
+Repo/code: https://github.com/DavidDZ7/SlidingPuzzle <br>
+Play here: https://daviddz7.github.io/SlidingPuzzle/ <br>
+Refresh the page to start a new game. <br>
+
+[![Sliding Puzzle](slidingPuzzle.gif)](https://daviddz7.github.io/SlidingPuzzle/)
+
+------------------
  **Special Thanks** <br>
 ------------------
 <ul>
